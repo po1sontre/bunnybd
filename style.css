@@ -1,6 +1,6 @@
 :root {
     --background-dark: linear-gradient(98.3deg, rgb(0, 0, 0) 10.6%, rgb(255, 0, 0) 97.7%);
-    --background-light: linear-gradient(123.5deg, rgb(244, 219, 251) 29.3%, rgb(255, 214, 214) 67.1%);
+    --background: radial-gradient(circle at 10% 20%, rgb(241, 121, 226) 0%, rgb(251, 226, 216) 86.8%);
     --text-dark: #ffffff;
     --text-light: #1a1a1a;
     --button-bg: rgba(255, 255, 255, 0.15);
