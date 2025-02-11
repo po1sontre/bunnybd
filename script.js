@@ -3,7 +3,7 @@ const toggleButton = document.getElementById('toggleBackground');
 let isDarkMode = true;
 
 // Update countdown every second
-const birthday = new Date('December 16, 2024 00:00:00');
+const birthday = new Date('December 16, 2025 00:00:00');
 function updateCountdown() {
   const now = new Date();
   const timeDiff = birthday - now;
